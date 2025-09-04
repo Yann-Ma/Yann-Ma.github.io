@@ -12,7 +12,7 @@ main:
   - title: "LTCR: Long-text Chinese rumor detection dataset"
     authors: <strong>Ziyang Ma</strong>, Mengsha Liu, Guian Fang, Ying Shen
     conference: Neural Computing and Applications (SCI, Impact Factor 5.1), 2025
-    conference_short: NCAA, 2025
+    conference_short: NCAA 2025
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://link.springer.com/content/pdf/10.1007/s00521-025-11260-z.pdf
     code: https://github.com/Enderfga/DoubleCheck
