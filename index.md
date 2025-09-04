@@ -21,5 +21,3 @@ I am a M.S. student in Computer Science at Southeast University. Before starting
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
