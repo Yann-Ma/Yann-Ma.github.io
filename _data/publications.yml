@@ -6,7 +6,7 @@ main:
     conference_short: EMNLP 2025
     pdf: https://arxiv.org/pdf/2506.08410
     code: https://github.com/Yann-Ma/AutoMeco
-    image: ./assets/img/emnlp25-figure.png
+    image: ./assets/img/emnlp25-figure.jpg
     # notes: Early Accept
 
   - title: "LTCR: Long-text Chinese rumor detection dataset"
