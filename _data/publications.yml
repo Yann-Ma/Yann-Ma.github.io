@@ -11,12 +11,12 @@ main:
 
   - title: "LTCR: Long-text Chinese rumor detection dataset"
     authors: <strong>Ziyang Ma</strong>, Mengsha Liu, Guian Fang, Ying Shen
-    journal: Neural Computing and Applications, 2025
+    conference_short: Neural Computing and Applications (SCI, Impact Factor 5.1), 2025
     journal_short: NCAA
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://link.springer.com/content/pdf/10.1007/s00521-025-11260-z.pdf
     code: https://github.com/Enderfga/DoubleCheck
-    image: ./assets/img/coling24-figure.png
+    image: ./assets/img/ncaa25-figure.png
     # notes: Early Accept
 
   - title: "Source-free Domain Adaptation for Aspect-based Sentiment Analysis"
@@ -25,4 +25,4 @@ main:
     conference: Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
     pdf: https://aclanthology.org/2024.lrec-main.1310.pdf
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/coling24-figure.png
